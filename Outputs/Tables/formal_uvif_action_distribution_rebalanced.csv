@@ -1,0 +1,5 @@
+action,count,percentage,decision_entropy
+Treat as likely pneumonia with clinician confirmation,334,53.52564102564103,0.33454027464931235
+Request additional evidence or repeat imaging,115,18.42948717948718,0.3116828487190872
+Low-risk monitoring / outpatient follow-up,94,15.064102564102564,0.2851417068803619
+Escalate review: high-risk but uncertain,81,12.98076923076923,0.26502852293182066
